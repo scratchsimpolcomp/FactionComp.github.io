@@ -4,7 +4,7 @@ questions =  [
     {"id": 2, "question": "My faction likes to organize raids.", "effects": {"right": 1}},
     {"id": 3, "question": "My faction is allied to no/few other factions.", "effects": {"right": 1}},
     {"id": 4, "question": "My faction will go all the way while invading an enemy.", "effects": {"right": 1}},
-    {"id": 5, "question": "My faction will always find a way to end war before total conquest.", "effects": {"right": -1}},
+    {"id": 5, "question": "My faction will always find a way to end war before being completely conquered.", "effects": {"right": -1}},
     {"id": 6, "question": "My faction.", "effects": {"right": -1}},
     {"id": 7, "question": "The harder you work, the more you progress up the social ladder.", "effects": {"right": -1}},
     {"id": 8, "question": "Organisations and corporations cannot be trusted and need regulating by the government.", "effects": {"right": -1}},
